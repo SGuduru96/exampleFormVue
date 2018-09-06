@@ -1,0 +1,19 @@
+{
+  "name": "exampleform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "Shashank Guduru",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vue": "^2.5.17",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
